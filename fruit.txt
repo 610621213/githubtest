@@ -3,5 +3,3 @@ banana
 orange
 guava
 pineapple
-
-Mr.mo add newline here
